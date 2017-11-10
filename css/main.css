@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine;
+}
+
+.first_class {
+    background: greenyellow;
+}
+
+.economic_class {
+    background: yellow;
+}
+
+.seats {
+    
+    border: 1px solid black; 
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+}
+.center {
+    text-align: center;
+}
